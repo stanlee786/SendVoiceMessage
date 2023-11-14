@@ -1,6 +1,6 @@
 {
   "name": "sendvoicemessage",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Send custom Discord voice messages using requests",
   "main": "index.js",
   "scripts": {

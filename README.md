@@ -29,7 +29,7 @@ NodeJS application to send custom audio messages as Discord Voice Messages using
 
 ### Requirements
 
-To run this application `NodeJS` is required, you will also need to create a `.env` file
+To run this application `NodeJS` is required
 
 - Install NodeJS from [here](https://nodejs.org/)
 
@@ -38,6 +38,7 @@ To run this application `NodeJS` is required, you will also need to create a `.e
 <br>
 
 You'll also need the following binaries in the application root:
+
 - ffmpeg.exe
 - ffprobe.exe
 
